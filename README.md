@@ -1,6 +1,6 @@
 # Assignments for CSC375-w22
 
-##Assignment 1
+## Assignment 1
 
 ### Problem 1
 
