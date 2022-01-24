@@ -14,3 +14,9 @@
 * Look for the spots that say "Code starts here". There should be 6 functions you are required to fill in.
 
 ### Problem 3
+
+* cd into csc375-w22-p3 in your cloned github directory.
+* Run `pip install pybullet` in your command line shell.
+* Look for "YOUR CODE STARTS HERE". There should be The only two files containing such statements are in `main.py` and `robot.py` and 6 places in total.
+* You should not have to make any changes in any of the other files.
+* After you are finished, running `python main.py` should bring up a simulated robot that picks up blocks, places them in the bins, then takes them out of the bin and repeats indefinitely. 
