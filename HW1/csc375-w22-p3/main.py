@@ -31,6 +31,7 @@ def main():
     e.robot.go_home()
 
     while 1:
+        print("D")
         ########### YOUR CODE STARTS HERE ###########
         raise NotImplementedError
         ########### YOUR CODE ENDS HERE ###########
