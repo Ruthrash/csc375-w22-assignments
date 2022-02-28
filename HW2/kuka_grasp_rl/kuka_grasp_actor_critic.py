@@ -20,8 +20,8 @@ from agents import ActorCriticAgent
 
 # Create the environment
 min_episodes_criterion = 100
-max_episodes = 10000
-steps = 500
+max_episodes = 5000
+steps_per_episode = 500
 gamma = 0.9
 
 # Set seed for experiment reproducibility
@@ -62,7 +62,7 @@ def main(argv):
         rewards = tf.TensorArray(dtype=tf.int32, size=0, dynamic_size=True)
 
         with tf.GradientTape() as tape:
-            for j in tf.range(steps):
+            for j in tf.range(steps_per_episode):
             # This is your main training loop per step of each episode
             # Hint: Don't forget to normalize your state before using it. A function is provided for you.
 

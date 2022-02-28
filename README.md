@@ -38,3 +38,5 @@
 * From your command line: cd kuka_grasp_rl.
 * Look for the spots that say "Code starts here". There should be 5 spots you are required to fill in in agents.py and kuka_grasp_actor_critic.py.
 * Run by calling: python kuka_grasp_actor_critic.py.
+* renders=True in the env initialization will enable the GUI when running on your local machine. This will help with debugging.
+* After you have debugged, use UTM machines for training in full, by disabling the GUI (renders=False in the env initialization). This will train faster.
