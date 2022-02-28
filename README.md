@@ -34,3 +34,7 @@
 * Look for the spots that say "YOUR CODE STARTS HERE". There should be 9 spots you are required to fill in.
 
 ### Problem 3
+
+* From your command line: cd kuka_grasp_rl.
+* Look for the spots that say "Code starts here". There should be 5 spots you are required to fill in in agents.py and kuka_grasp_actor_critic.py.
+* Run by calling: python kuka_grasp_actor_critic.py.
