@@ -19,4 +19,18 @@
 * Run `pip install pybullet` in your command line shell.
 * Look for "YOUR CODE STARTS HERE". There should be The only two files containing such statements are in `main.py` and `robot.py` and 6 places in total.
 * You should not have to make any changes in any of the other files.
-* After you are finished, running `python main.py` should bring up a simulated robot that picks up blocks, places them in the bins, then takes them out of the bin and repeats indefinitely. 
+* After you are finished, running `python main.py` should bring up a simulated robot that picks up blocks, places them in the bins, then takes them out of the bin and repeats indefinitely.
+
+## Assignment 2
+
+### Problem 1
+
+* Open P1_differential_flatness.py in HW2.
+* Look for the spots that say "Code starts here". There should be 3 spots you are required to fill in.
+
+### Problem 2
+
+* Open [this Google Colab](https://colab.research.google.com/drive/1wx2PCfylkaBOlEu2zWwRROZiAThHfKjG#scrollTo=x5GXJ5k_Pj9A) and make a copy.
+* Look for the spots that say "YOUR CODE STARTS HERE". There should be 9 spots you are required to fill in.
+
+### Problem 3
