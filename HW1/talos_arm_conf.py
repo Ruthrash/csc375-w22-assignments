@@ -40,3 +40,4 @@ EE_REF_SPHERE_COLOR = (1, 0, 0, 0.5)
 urdf = "/talos_data/robots/talos_left_arm.urdf"
 path = getModelPath(urdf)
 urdf = path + urdf
+print(path)
